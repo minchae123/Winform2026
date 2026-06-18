@@ -1,0 +1,10 @@
+D:\MC\src\SimpleVMSolution\SimpleVMForm\bin\Debug\SimpleVMForm.exe.config
+D:\MC\src\SimpleVMSolution\SimpleVMForm\bin\Debug\SimpleVMForm.exe
+D:\MC\src\SimpleVMSolution\SimpleVMForm\bin\Debug\SimpleVMForm.pdb
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.csproj.AssemblyReference.cache
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.VMForm.resources
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.Properties.Resources.resources
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.csproj.GenerateResource.cache
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.csproj.CoreCompileInputs.cache
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.exe
+D:\MC\src\SimpleVMSolution\SimpleVMForm\obj\Debug\SimpleVMForm.pdb

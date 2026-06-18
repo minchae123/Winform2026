@@ -1,0 +1,7 @@
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\obj\Debug\MyUpDownConsoleApp.csproj.AssemblyReference.cache
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\obj\Debug\MyUpDownConsoleApp.csproj.CoreCompileInputs.cache
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\bin\Debug\MyUpDownConsoleApp.exe.config
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\bin\Debug\MyUpDownConsoleApp.exe
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\bin\Debug\MyUpDownConsoleApp.pdb
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\obj\Debug\MyUpDownConsoleApp.exe
+D:\MC\src\MyConsoleSolution\MyUpDownConsoleApp\obj\Debug\MyUpDownConsoleApp.pdb

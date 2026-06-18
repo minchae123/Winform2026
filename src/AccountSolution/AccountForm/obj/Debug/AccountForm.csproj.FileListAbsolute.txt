@@ -1,0 +1,10 @@
+D:\MC\src\AccountSolution\AccountForm\bin\Debug\AccountForm.exe.config
+D:\MC\src\AccountSolution\AccountForm\bin\Debug\AccountForm.exe
+D:\MC\src\AccountSolution\AccountForm\bin\Debug\AccountForm.pdb
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.csproj.AssemblyReference.cache
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.Form1.resources
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.Properties.Resources.resources
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.csproj.GenerateResource.cache
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.csproj.CoreCompileInputs.cache
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.exe
+D:\MC\src\AccountSolution\AccountForm\obj\Debug\AccountForm.pdb

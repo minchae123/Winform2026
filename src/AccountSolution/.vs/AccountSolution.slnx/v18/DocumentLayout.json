@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MC\\src\\AccountSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D1F87E-7455-4F4E-8747-D9D82E447F46}|AccountForm\\AccountForm.csproj|D:\\MC\\src\\AccountSolution\\accountform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D1F87E-7455-4F4E-8747-D9D82E447F46}|AccountForm\\AccountForm.csproj|solutionrelative:accountform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D1F87E-7455-4F4E-8747-D9D82E447F46}|AccountForm\\AccountForm.csproj|d:\\mc\\src\\accountsolution\\accountform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D1F87E-7455-4F4E-8747-D9D82E447F46}|AccountForm\\AccountForm.csproj|solutionrelative:accountform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\MC\\src\\AccountSolution\\AccountForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AccountForm\\Form1.cs",
+              "ToolTip": "D:\\MC\\src\\AccountSolution\\AccountForm\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AccountForm\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:42:29.142Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MC\\src\\AccountSolution\\AccountForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AccountForm\\Form1.cs",
+              "ToolTip": "D:\\MC\\src\\AccountSolution\\AccountForm\\Form1.cs",
+              "RelativeToolTip": "AccountForm\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:50:34.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

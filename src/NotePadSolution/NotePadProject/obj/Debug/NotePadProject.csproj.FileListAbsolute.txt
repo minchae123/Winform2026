@@ -1,0 +1,11 @@
+D:\MC\src\NotePadSolution\NotePadProject\bin\Debug\NotePadProject.exe.config
+D:\MC\src\NotePadSolution\NotePadProject\bin\Debug\NotePadProject.exe
+D:\MC\src\NotePadSolution\NotePadProject\bin\Debug\NotePadProject.pdb
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.csproj.AssemblyReference.cache
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.NotePadForm.resources
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.Properties.Resources.resources
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.csproj.GenerateResource.cache
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.csproj.CoreCompileInputs.cache
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.exe
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.pdb
+D:\MC\src\NotePadSolution\NotePadProject\obj\Debug\NotePadProject.GridNotePadForm.resources

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MC\\src\\GameSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338E9274-ED7F-470D-B54B-4E02ADDCDDC7}|UPDownProject\\UPDownProject.csproj|d:\\mc\\src\\gamesolution\\updownproject\\updownform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{338E9274-ED7F-470D-B54B-4E02ADDCDDC7}|UPDownProject\\UPDownProject.csproj|solutionrelative:updownproject\\updownform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E9274-ED7F-470D-B54B-4E02ADDCDDC7}|UPDownProject\\UPDownProject.csproj|D:\\MC\\src\\GameSolution\\updownproject\\updownform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E9274-ED7F-470D-B54B-4E02ADDCDDC7}|UPDownProject\\UPDownProject.csproj|solutionrelative:updownproject\\updownform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpDownForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\MC\\src\\GameSolution\\UPDownProject\\UpDownForm.cs",
+              "RelativeDocumentMoniker": "UPDownProject\\UpDownForm.cs",
+              "ToolTip": "D:\\MC\\src\\GameSolution\\UPDownProject\\UpDownForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "UPDownProject\\UpDownForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:48:13.817Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpDownForm.cs",
+              "DocumentMoniker": "D:\\MC\\src\\GameSolution\\UPDownProject\\UpDownForm.cs",
+              "RelativeDocumentMoniker": "UPDownProject\\UpDownForm.cs",
+              "ToolTip": "D:\\MC\\src\\GameSolution\\UPDownProject\\UpDownForm.cs",
+              "RelativeToolTip": "UPDownProject\\UpDownForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:50:46.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

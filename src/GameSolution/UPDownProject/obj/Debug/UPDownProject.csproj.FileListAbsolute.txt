@@ -1,0 +1,10 @@
+D:\MC\src\GameSolution\UPDownProject\bin\Debug\UPDownProject.exe.config
+D:\MC\src\GameSolution\UPDownProject\bin\Debug\UPDownProject.exe
+D:\MC\src\GameSolution\UPDownProject\bin\Debug\UPDownProject.pdb
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.csproj.AssemblyReference.cache
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.Properties.Resources.resources
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.csproj.GenerateResource.cache
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.csproj.CoreCompileInputs.cache
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.exe
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.pdb
+D:\MC\src\GameSolution\UPDownProject\obj\Debug\UPDownProject.UpDownForm.resources

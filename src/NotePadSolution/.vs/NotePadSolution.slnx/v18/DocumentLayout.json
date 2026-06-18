@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MC\\src\\NotePadSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|d:\\mc\\src\\notepadsolution\\notepadproject\\gridnotepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|solutionrelative:notepadproject\\gridnotepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|D:\\MC\\src\\NotePadSolution\\notepadproject\\gridnotepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|solutionrelative:notepadproject\\gridnotepadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|D:\\MC\\src\\NotePadSolution\\notepadproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFD1365-381F-469E-9A12-3B4EDCDCD45B}|NotePadProject\\NotePadProject.csproj|solutionrelative:notepadproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridNotePadForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\GridNotePadForm.cs",
+              "RelativeDocumentMoniker": "NotePadProject\\GridNotePadForm.cs",
+              "ToolTip": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\GridNotePadForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "NotePadProject\\GridNotePadForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T10:19:21.683Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridNotePadForm.cs",
+              "DocumentMoniker": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\GridNotePadForm.cs",
+              "RelativeDocumentMoniker": "NotePadProject\\GridNotePadForm.cs",
+              "ToolTip": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\GridNotePadForm.cs",
+              "RelativeToolTip": "NotePadProject\\GridNotePadForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T11:57:08.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\Program.cs",
+              "RelativeDocumentMoniker": "NotePadProject\\Program.cs",
+              "ToolTip": "D:\\MC\\src\\NotePadSolution\\NotePadProject\\Program.cs",
+              "RelativeToolTip": "NotePadProject\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T11:51:04.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
