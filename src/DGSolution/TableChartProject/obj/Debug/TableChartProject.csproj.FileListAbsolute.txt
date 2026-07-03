@@ -1,0 +1,10 @@
+D:\mc\DGSolution\TableChartProject\bin\Debug\TableChartProject.exe.config
+D:\mc\DGSolution\TableChartProject\bin\Debug\TableChartProject.exe
+D:\mc\DGSolution\TableChartProject\bin\Debug\TableChartProject.pdb
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.csproj.AssemblyReference.cache
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.Properties.Resources.resources
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.csproj.GenerateResource.cache
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.csproj.CoreCompileInputs.cache
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.exe
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.pdb
+D:\mc\DGSolution\TableChartProject\obj\Debug\TableChartProject.TableChart.resources

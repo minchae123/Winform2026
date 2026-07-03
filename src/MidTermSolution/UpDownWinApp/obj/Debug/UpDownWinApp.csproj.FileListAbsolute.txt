@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.Form1.resources
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.Properties.Resources.resources
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\bin\Debug\UpDownWinApp.exe.config
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\bin\Debug\UpDownWinApp.exe
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\bin\Debug\UpDownWinApp.pdb
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.exe
+C:\Users\user\source\repos\MidTermSolution\UpDownWinApp\obj\Debug\UpDownWinApp.pdb

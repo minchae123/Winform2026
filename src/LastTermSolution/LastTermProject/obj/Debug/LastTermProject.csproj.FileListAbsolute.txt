@@ -1,0 +1,13 @@
+D:\mc\LastTermSolution\LastTermProject\bin\Debug\LastTermProject.exe.config
+D:\mc\LastTermSolution\LastTermProject\bin\Debug\LastTermProject.exe
+D:\mc\LastTermSolution\LastTermProject\bin\Debug\LastTermProject.pdb
+D:\mc\LastTermSolution\LastTermProject\bin\Debug\MySql.Data.dll
+D:\mc\LastTermSolution\LastTermProject\bin\Debug\PlayerDataClassLibrary.dll
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.csproj.AssemblyReference.cache
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.Form1.resources
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.Properties.Resources.resources
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.csproj.GenerateResource.cache
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.csproj.CoreCompileInputs.cache
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTerm.91185AE7.Up2Date
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.exe
+D:\mc\LastTermSolution\LastTermProject\obj\Debug\LastTermProject.pdb

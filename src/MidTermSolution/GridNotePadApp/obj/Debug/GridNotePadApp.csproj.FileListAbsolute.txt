@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.Form1.resources
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.Properties.Resources.resources
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\bin\Debug\GridNotePadApp.exe.config
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\bin\Debug\GridNotePadApp.exe
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\bin\Debug\GridNotePadApp.pdb
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.exe
+C:\Users\user\source\repos\MidTermSolution\GridNotePadApp\obj\Debug\GridNotePadApp.pdb

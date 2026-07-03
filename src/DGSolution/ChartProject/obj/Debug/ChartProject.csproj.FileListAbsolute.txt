@@ -1,0 +1,10 @@
+D:\mc\DGSolution\ChartProject\bin\Debug\ChartProject.exe.config
+D:\mc\DGSolution\ChartProject\bin\Debug\ChartProject.exe
+D:\mc\DGSolution\ChartProject\bin\Debug\ChartProject.pdb
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.csproj.AssemblyReference.cache
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.ChartForm.resources
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.Properties.Resources.resources
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.csproj.GenerateResource.cache
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.csproj.CoreCompileInputs.cache
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.exe
+D:\mc\DGSolution\ChartProject\obj\Debug\ChartProject.pdb

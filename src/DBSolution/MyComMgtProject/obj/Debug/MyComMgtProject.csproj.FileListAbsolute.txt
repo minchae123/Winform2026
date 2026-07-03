@@ -1,0 +1,13 @@
+D:\mc\DBSolution\MyComMgtProject\bin\Debug\MyComMgtProject.exe.config
+D:\mc\DBSolution\MyComMgtProject\bin\Debug\MyComMgtProject.exe
+D:\mc\DBSolution\MyComMgtProject\bin\Debug\MyComMgtProject.pdb
+D:\mc\DBSolution\MyComMgtProject\bin\Debug\MySql.Data.dll
+D:\mc\DBSolution\MyComMgtProject\bin\Debug\MySql.Data.xml
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.csproj.AssemblyReference.cache
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.MyComMgtForm.resources
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.Properties.Resources.resources
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.csproj.GenerateResource.cache
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.csproj.CoreCompileInputs.cache
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgt.DAB619BE.Up2Date
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.exe
+D:\mc\DBSolution\MyComMgtProject\obj\Debug\MyComMgtProject.pdb

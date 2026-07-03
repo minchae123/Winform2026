@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mc\\DGSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7B49D-2FC3-4F85-9B9F-BE18C77828E0}|TestConsoleApp\\TestConsoleApp.csproj|d:\\mc\\dgsolution\\testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7B49D-2FC3-4F85-9B9F-BE18C77828E0}|TestConsoleApp\\TestConsoleApp.csproj|solutionrelative:testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10BD4E-FAE1-4E49-BFBB-7E4936ABB608}|PlayerData\\PlayerData.csproj|d:\\mc\\dgsolution\\playerdata\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10BD4E-FAE1-4E49-BFBB-7E4936ABB608}|PlayerData\\PlayerData.csproj|solutionrelative:playerdata\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D67A18E-6517-4172-98B9-C987811F746E}|TableChartProject\\TableChartProject.csproj|d:\\mc\\dgsolution\\tablechartproject\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D67A18E-6517-4172-98B9-C987811F746E}|TableChartProject\\TableChartProject.csproj|solutionrelative:tablechartproject\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A845A0F-6F94-44A6-8762-04092207E932}|ChartProject\\ChartProject.csproj|d:\\mc\\dgsolution\\chartproject\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A845A0F-6F94-44A6-8762-04092207E932}|ChartProject\\ChartProject.csproj|solutionrelative:chartproject\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D67A18E-6517-4172-98B9-C987811F746E}|TableChartProject\\TableChartProject.csproj|d:\\mc\\dgsolution\\tablechartproject\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D67A18E-6517-4172-98B9-C987811F746E}|TableChartProject\\TableChartProject.csproj|solutionrelative:tablechartproject\\tablechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32D1E78-18CA-41A4-87CE-9FF1AAC3EEF7}|DataStructureProject\\DataStructureProject.csproj|d:\\mc\\dgsolution\\datastructureproject\\dsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32D1E78-18CA-41A4-87CE-9FF1AAC3EEF7}|DataStructureProject\\DataStructureProject.csproj|solutionrelative:datastructureproject\\dsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A845A0F-6F94-44A6-8762-04092207E932}|ChartProject\\ChartProject.csproj|d:\\mc\\dgsolution\\chartproject\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A845A0F-6F94-44A6-8762-04092207E932}|ChartProject\\ChartProject.csproj|solutionrelative:chartproject\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32D1E78-18CA-41A4-87CE-9FF1AAC3EEF7}|DataStructureProject\\DataStructureProject.csproj|d:\\mc\\dgsolution\\datastructureproject\\dsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E32D1E78-18CA-41A4-87CE-9FF1AAC3EEF7}|DataStructureProject\\DataStructureProject.csproj|solutionrelative:datastructureproject\\dsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\TestConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Program.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\TestConsoleApp\\Program.cs",
+              "RelativeToolTip": "TestConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:53:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\PlayerData\\DataUtil.cs",
+              "RelativeDocumentMoniker": "PlayerData\\DataUtil.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\PlayerData\\DataUtil.cs",
+              "RelativeToolTip": "PlayerData\\DataUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:46:16.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableChart.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\TableChartProject\\TableChart.cs",
+              "RelativeDocumentMoniker": "TableChartProject\\TableChart.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\TableChartProject\\TableChart.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "TableChartProject\\TableChart.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:37:21.556Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChartForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\ChartProject\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ChartProject\\ChartForm.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\ChartProject\\ChartForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ChartProject\\ChartForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:24:07.698Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\ChartProject\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ChartProject\\ChartForm.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\ChartProject\\ChartForm.cs",
+              "RelativeToolTip": "ChartProject\\ChartForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:26:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableChart.cs",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\TableChartProject\\TableChart.cs",
+              "RelativeDocumentMoniker": "TableChartProject\\TableChart.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\TableChartProject\\TableChart.cs",
+              "RelativeToolTip": "TableChartProject\\TableChart.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:41:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DSForm.cs",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\DataStructureProject\\DSForm.cs",
+              "RelativeDocumentMoniker": "DataStructureProject\\DSForm.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\DataStructureProject\\DSForm.cs",
+              "RelativeToolTip": "DataStructureProject\\DSForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:16:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DSForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\mc\\DGSolution\\DataStructureProject\\DSForm.cs",
+              "RelativeDocumentMoniker": "DataStructureProject\\DSForm.cs",
+              "ToolTip": "D:\\mc\\DGSolution\\DataStructureProject\\DSForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DataStructureProject\\DSForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:06:02.319Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

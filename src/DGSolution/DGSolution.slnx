@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ChartProject/ChartProject.csproj" />
+  <Project Path="DataStructureProject/DataStructureProject.csproj" />
+  <Project Path="PlayerData/PlayerData.csproj" />
+  <Project Path="TableChartProject/TableChartProject.csproj" />
+  <Project Path="TestConsoleApp/TestConsoleApp.csproj" />
+</Solution>

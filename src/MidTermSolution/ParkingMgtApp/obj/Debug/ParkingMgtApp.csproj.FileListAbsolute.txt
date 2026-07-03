@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.Form1.resources
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.Properties.Resources.resources
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\bin\Debug\ParkingMgtApp.exe.config
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\bin\Debug\ParkingMgtApp.exe
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\bin\Debug\ParkingMgtApp.pdb
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.exe
+C:\Users\user\source\repos\MidTermSolution\ParkingMgtApp\obj\Debug\ParkingMgtApp.pdb

@@ -1,0 +1,10 @@
+D:\mc\DGSolution\DataStructureProject\bin\Debug\DataStructureProject.exe.config
+D:\mc\DGSolution\DataStructureProject\bin\Debug\DataStructureProject.exe
+D:\mc\DGSolution\DataStructureProject\bin\Debug\DataStructureProject.pdb
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.csproj.AssemblyReference.cache
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.DSForm.resources
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.Properties.Resources.resources
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.csproj.GenerateResource.cache
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.csproj.CoreCompileInputs.cache
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.exe
+D:\mc\DGSolution\DataStructureProject\obj\Debug\DataStructureProject.pdb

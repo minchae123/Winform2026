@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GridNotePadApp/GridNotePadApp.csproj" />
+  <Project Path="ParkingMgtApp/ParkingMgtApp.csproj" />
+  <Project Path="UpDownConsoleApp/UpDownConsoleApp.csproj" />
+  <Project Path="UpDownWinApp/UpDownWinApp.csproj" />
+</Solution>

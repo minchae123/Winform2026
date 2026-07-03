@@ -1,0 +1,12 @@
+D:\mc\PlayerMgtSolution\PlayerMgtProject\bin\Debug\PlayerMgtProject.exe.config
+D:\mc\PlayerMgtSolution\PlayerMgtProject\bin\Debug\PlayerMgtProject.exe
+D:\mc\PlayerMgtSolution\PlayerMgtProject\bin\Debug\PlayerMgtProject.pdb
+D:\mc\PlayerMgtSolution\PlayerMgtProject\bin\Debug\PlayerDataClassLibrary.dll
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.csproj.AssemblyReference.cache
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.PlayerMgtForm.resources
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.Properties.Resources.resources
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.csproj.GenerateResource.cache
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.csproj.CoreCompileInputs.cache
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMg.DAF6CD2B.Up2Date
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.exe
+D:\mc\PlayerMgtSolution\PlayerMgtProject\obj\Debug\PlayerMgtProject.pdb

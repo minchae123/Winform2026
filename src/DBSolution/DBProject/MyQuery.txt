@@ -1,0 +1,35 @@
+INSERT INTO mycompany
+(id, name, email, dept, job, level, fla_type, fla_value, flb_type, flb_value, score, salary)
+VALUES
+('s20200001','김일만','i1@aa.com','개발A','S','대리','T',500,'HSK',3,'A',3000),
+('s20200002','김연아','i2@aa.com','개발A','S','사원','T',600,'HSK',0,'A',2300),
+('s20200003','강감찬','i3@aa.com','개발B','E','과장','T',600,'HSK',0,'A',4500),
+('s20200004','김삼반','i4@aa.com','개발B','E','차장','T',550,'HSK',0,'A',5000),
+('s20200005','박찬호','i5@aa.com','개발A','S','차장','T',750,'HSK',0,'A',4500),
+('s20200006','박창진','i6@aa.com','경영','M','부장','T',800,'HSK',0,'A',5500),
+('s20200007','강만웅','i7@aa.com','경영','M','과장','T',770,'HSK',0,'A',4500),
+('s20200008','김철수','i8@aa.com','회계','C','사원','T',800,'HSK',0,'A',2200),
+('s20200009','박배짱','i9@aa.com','회계','C','사원','T',450,'HSK',0,'A',1800),
+('s20200010','최순정','i10@aa.com','기획','P','대리','T',800,'HSK',0,'A',2800),
+('s20200011','류현진','i11@aa.com','기획','P','사원','T',550,'HSK',8,'A',2500),
+('s20200012','정구칠','i12@aa.com','인사','H','사원','T',550,'HSK',0,'A',2300),
+('s20200013','김검희','i13@aa.com','인사','H','차장','T',750,'HSK',0,'A',4500),
+('s20200014','김경후','i14@aa.com','운영','E','부장','T',800,'HSK',5,'A',5000),
+('s20200015','나혜석','i15@aa.com','운영','E','대리','T',500,'HSK',8,'A',3000);
+
+
+
+CREATE TABLE mycompany (
+    id VARCHAR(32) primary key,
+    name VARCHAR(32),
+    email VARCHAR(32),
+    dept VARCHAR(32),
+    job VARCHAR(32),
+    level VARCHAR(32),
+    fla_type VARCHAR(32),
+    fla_value VARCHAR(32),
+    flb_type VARCHAR(32),
+    flb_value VARCHAR(32),
+    score VARCHAR(32),
+    salary VARCHAR(32)
+);

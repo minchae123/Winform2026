@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\bin\Debug\UpDownConsoleApp.exe.config
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\bin\Debug\UpDownConsoleApp.exe
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\bin\Debug\UpDownConsoleApp.pdb
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\obj\Debug\UpDownConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\obj\Debug\UpDownConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\obj\Debug\UpDownConsoleApp.exe
+C:\Users\user\source\repos\MidTermSolution\UpDownConsoleApp\obj\Debug\UpDownConsoleApp.pdb

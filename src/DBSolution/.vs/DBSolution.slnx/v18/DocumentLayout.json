@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mc\\DBSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01051EF9-FFF2-4E74-8A06-AF06364BEB80}|MyComMgtProject\\MyComMgtProject.csproj|d:\\mc\\dbsolution\\mycommgtproject\\mycommgtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01051EF9-FFF2-4E74-8A06-AF06364BEB80}|MyComMgtProject\\MyComMgtProject.csproj|solutionrelative:mycommgtproject\\mycommgtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01051EF9-FFF2-4E74-8A06-AF06364BEB80}|MyComMgtProject\\MyComMgtProject.csproj|d:\\mc\\dbsolution\\mycommgtproject\\mycommgtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01051EF9-FFF2-4E74-8A06-AF06364BEB80}|MyComMgtProject\\MyComMgtProject.csproj|solutionrelative:mycommgtproject\\mycommgtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8676B8-E9CF-4821-8579-4D8528113C54}|DBProject\\DBProject.csproj|d:\\mc\\dbsolution\\dbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8676B8-E9CF-4821-8579-4D8528113C54}|DBProject\\DBProject.csproj|solutionrelative:dbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8676B8-E9CF-4821-8579-4D8528113C54}|DBProject\\DBProject.csproj|d:\\mc\\dbsolution\\dbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E8676B8-E9CF-4821-8579-4D8528113C54}|DBProject\\DBProject.csproj|solutionrelative:dbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyComMgtForm.cs",
+              "DocumentMoniker": "D:\\mc\\DBSolution\\MyComMgtProject\\MyComMgtForm.cs",
+              "RelativeDocumentMoniker": "MyComMgtProject\\MyComMgtForm.cs",
+              "ToolTip": "D:\\mc\\DBSolution\\MyComMgtProject\\MyComMgtForm.cs",
+              "RelativeToolTip": "MyComMgtProject\\MyComMgtForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:47:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyComMgtForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\mc\\DBSolution\\MyComMgtProject\\MyComMgtForm.cs",
+              "RelativeDocumentMoniker": "MyComMgtProject\\MyComMgtForm.cs",
+              "ToolTip": "D:\\mc\\DBSolution\\MyComMgtProject\\MyComMgtForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyComMgtProject\\MyComMgtForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:33:07.547Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\mc\\DBSolution\\DBProject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBProject\\Form1.cs",
+              "ToolTip": "D:\\mc\\DBSolution\\DBProject\\Form1.cs",
+              "RelativeToolTip": "DBProject\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:22:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\mc\\DBSolution\\DBProject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBProject\\Form1.cs",
+              "ToolTip": "D:\\mc\\DBSolution\\DBProject\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DBProject\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:09:15.312Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
