@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LMC_FBLProject
 {
-    public partial class Form1 : Form
+    public partial class AddActForm : Form
     {
-        public Form1()
+        public AddActForm()
         {
             InitializeComponent();
         }
