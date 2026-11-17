@@ -1,55 +1,86 @@
-# Prerequisites
-*.d
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# =====================================
+# Visual Studio
+# =====================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# =====================================
+# Build Results
+# =====================================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+out/
+[Aa]rtifacts/
 
-# Precompiled Headers
-*.gch
-*.pch
+# =====================================
+# .NET
+# =====================================
+project.lock.json
+project.fragment.lock.json
+*.nuget.g.props
+*.nuget.g.targets
+.nuget/
+packages/
+*.nupkg
+*.snupkg
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
+# =====================================
+# Visual Studio Cache
+# =====================================
+*.cache
 *.pdb
+*.ilk
+*.log
+*.tmp
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# =====================================
+# Test Results
+# =====================================
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
 
-# debug information files
-*.dwo
+# =====================================
+# Windows
+# =====================================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =====================================
+# IDE Extensions
+# =====================================
+_ReSharper*/
+*.DotSettings.user
+.idea/
+.vscode/
+
+# =====================================
+# Publish / Deployment
+# =====================================
+publish/
+app.publish/
+*.publish.xml
+*.azurePubxml
+
+# =====================================
+# Backup Files
+# =====================================
+*.bak
+*.old
+*.orig
+*~
+
+# =====================================
+# Optional: Local Settings
+# =====================================
+appsettings.Development.json
